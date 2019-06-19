@@ -5,7 +5,7 @@ Basic Python programs using strings, functions, lists, dictionaries, date/time f
 
 Use advanced Python features, including lambdas, list comprehensions and the numpy library
 
-#Week2:
+# Week2:
 Create Series and DataFrame Data Structures
 
 Use pandas math functions, as well as broadcasting features
