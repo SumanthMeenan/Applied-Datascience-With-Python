@@ -1,4 +1,4 @@
-# Introduction to DataScience in Python
+# Applied Datascience with python
 
 # Week1:
 Basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
