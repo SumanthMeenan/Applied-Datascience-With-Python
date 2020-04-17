@@ -72,7 +72,7 @@ s
 # In[15]:
 
 
-s.index #to know the index
+s.index #to know the index value 
 
 
 # In[16]:
