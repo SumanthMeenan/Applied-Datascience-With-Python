@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # coding: utf-8
 
 # # 1. The Series Data Structure
@@ -73,7 +72,7 @@ s
 # In[15]:
 
 
-s.index
+s.index #to know the index
 
 
 # In[16]:
